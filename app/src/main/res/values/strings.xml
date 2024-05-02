@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Image Searcher</string>
+
+    <string name="name_text_view">Name: %s</string>
+    <string name="email_text_view">Email: %s</string>
+    <string name="username_text_view">Username: %s</string>
+    <string name="phone_number_text_view">Phone Number: %s</string>
+    <string name="text_try_matching">Try matching the person to their photo</string>
+    <string name="text_practice_mode">Practice Mode</string>
+    <string name="text_timed_mode">Timed Mode</string>
+    <string name="game_over">Game Over</string>
+    <string name="your_score">Your score %1$s/%2$s</string>
+    <string name="ok">OK</string>
+    <string name="title_tag">Title: %1$s</string>
+    <string name="link_tag">Link: %1$s</string>
+    <string name="description_tag">Description: %1$s</string>
+    <string name="published_tag">Published: %1$s</string>
+    <string name="author_tag">Author: %1$s</string>
+    <string name="share_information_tag">Share Information</string>
+</resources>
